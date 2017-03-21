@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_address">https://demo.lassie.cloud/api/</string>
+    <string name="person_api_key">000000000000000000000000</string>
+    <string name="person_api_secret">000000000000000000000000</string>
+    <string name="api_model_key">000000000000000000000000</string>
+    <string name="api_model_secret">000000000000000000000000</string>
+    <string name="first_account_identifier">first</string>
+    <string name="second_account_identifier">second</string>
+</resources>
